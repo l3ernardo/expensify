@@ -37,6 +37,6 @@ test('should generate set text sortByDate with value', () => {
 });
 
 
-test('should generate bla bla bla', () => {
+test('should generate action object for sort by amount', () => {
     expect(sortByAmount()).toEqual({type: 'SORT_BY_AMOUNT'})
 });
