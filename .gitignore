@@ -1,5 +1,6 @@
 node_modules/
 <<<<<<< HEAD
+<<<<<<< HEAD
 public/dist/
 =======
 public/bundle.js
@@ -7,3 +8,9 @@ public/bundle.js.map
 public/styles.css
 public/styles.css.map
 >>>>>>> f520d0b19bd810dfcf870daecf978e90ef2acacf
+=======
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
+>>>>>>> 5dc0f42070d091d8c07a49d3b2d9b104de167c93
