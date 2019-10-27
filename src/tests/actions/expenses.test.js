@@ -1,4 +1,4 @@
-import {addExpense, removeExpense, editExpense} from '../actions/expenses';
+import {addExpense, removeExpense, editExpense} from '../../actions/expenses';
 
 //REMOVE_EXPENSE
 test('should setup remove expense action object', () => {
